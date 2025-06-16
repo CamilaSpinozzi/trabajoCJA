@@ -12,19 +12,26 @@ namespace Practica.practica
         {
             if (elementos == null || !elementos.Any())
             {
-                throw new ArgumentException("La lista está vacía o es null");
+                throw new DatosInvalidosException("La lista está vacía o es null");
               
             }
 
             //filtra la condicion
            var filtrados = elementos.Where(criterio);
+
+            if (!filtrados.Any())
+            {
+              return null;
+
+            }
+
+
             //Where() es un método de LINQ que devuelve solo
             //los elementos que cumplen con la condición del delegado.  
 
             // Guardamos el resultado
             var resultado = filtrados.MaxBy(s => s.Length);
             //(s => s.Length) lambda
-
             // Retornamos el resultado o "" si es null (por seguridad)
             return resultado ?? "";
 

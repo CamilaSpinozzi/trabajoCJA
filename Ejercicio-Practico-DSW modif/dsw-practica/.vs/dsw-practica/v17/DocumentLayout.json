@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica.Tests\\Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica.Tests\\Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Extensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\Extensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\ProcesadorDeStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\DatosInvalidosException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\DatosInvalidosException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Estadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\Estadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\IProcesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\IProcesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeEnteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica\\practica\\ProcesadorDeEnteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\Inicio.cs",
+              "RelativeDocumentMoniker": "Practica\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\Inicio.cs",
+              "RelativeToolTip": "Practica\\Inicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:33:01.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensiones.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Extensiones.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\Extensiones.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Extensiones.cs",
+              "RelativeToolTip": "Practica\\practica\\Extensiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:00:15.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "Practica.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica.Tests\\Tests.cs",
+              "RelativeToolTip": "Practica.Tests\\Tests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:05:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estadisticas.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Estadisticas.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\Estadisticas.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\Estadisticas.cs",
+              "RelativeToolTip": "Practica\\practica\\Estadisticas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:45:39.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosInvalidosException.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\DatosInvalidosException.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\DatosInvalidosException.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\DatosInvalidosException.cs",
+              "RelativeToolTip": "Practica\\practica\\DatosInvalidosException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:57:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcesadorDeStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeStrings.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\ProcesadorDeStrings.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeStrings.cs",
+              "RelativeToolTip": "Practica\\practica\\ProcesadorDeStrings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:32:59.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcesadorDeEnteros.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeEnteros.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\ProcesadorDeEnteros.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\ProcesadorDeEnteros.cs",
+              "RelativeToolTip": "Practica\\practica\\ProcesadorDeEnteros.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:32:54.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProcesador.cs",
+              "DocumentMoniker": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\IProcesador.cs",
+              "RelativeDocumentMoniker": "Practica\\practica\\IProcesador.cs",
+              "ToolTip": "C:\\Users\\Aldana\\Downloads\\trabajoCJA\\Ejercicio-Practico-DSW modif\\dsw-practica\\Practica\\practica\\IProcesador.cs",
+              "RelativeToolTip": "Practica\\practica\\IProcesador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:32:51.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

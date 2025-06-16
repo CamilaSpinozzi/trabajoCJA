@@ -39,7 +39,8 @@ INSTRUCCIONES:
 
 4. Crear la clase estática Estadisticas:
    - Agregar el método CalcularEstadisticas, que reciba un IEnumerable<int>
-   - Debe retornar tres valores: Dos enteros, que representan el mínimo y el máximo, y un double, que es el promedio
+   - Debe retornar tres valores: Dos enteros, que representan el mínimo y el máximo, y un double, 
+  que es el promedio
    - Si la lista está vacía, lanzar DatosInvalidosException
 
 5. Crear la clase DatosInvalidosException:

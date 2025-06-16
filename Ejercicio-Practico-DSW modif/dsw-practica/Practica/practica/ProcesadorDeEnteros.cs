@@ -17,7 +17,7 @@ namespace Practica.practica
         {
             if (elementos == null || !elementos.Any())
             {
-                throw new ArgumentException("La lista está vacía o es null");
+                throw new DatosInvalidosException("La lista está vacía o es null");
             }
 
             int suma = 0;
